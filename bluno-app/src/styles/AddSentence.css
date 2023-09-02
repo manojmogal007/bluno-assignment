@@ -1,0 +1,16 @@
+.sentence-container{
+
+}
+.sentence-input{
+    width: 300px;
+    height: 20px;
+    border-radius: 5px;
+}
+
+.add-sentence{
+    background-color: rgb(231, 13, 13);
+    color: white;
+    padding: 3px 10px;
+    border-radius: 4px;
+    margin-left: 10px;
+}

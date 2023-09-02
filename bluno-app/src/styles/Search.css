@@ -1,0 +1,16 @@
+
+.search-container{
+    margin-top: 20px;
+}
+.word-input{
+    width: 200px;
+    height: 20px;
+    border-radius: 5px;
+}
+.search-btn{
+    background-color: rgb(43, 176, 228);
+    color: white;
+    padding: 3px 10px;
+    border-radius: 4px;
+    margin-left: 10px;
+}
